@@ -93,7 +93,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             </select>
         </div>
         <button type="submit" class="btn btn-primary">Update Product</button>
-        <a href="products.php" class="btn btn-secondary">Cancel</a>
+        <a href="http://rental-mobil.test:8080/admin_dashboard.php?page=products" class="btn btn-secondary">Cancel</a>
     </form>
 </div>
 
